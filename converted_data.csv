@@ -1,0 +1,1761 @@
+Year,District,Min_Price,Max_Price,Region,Average_Price
+2013,HYDERABAD,2000,5000,Central,4300
+2013,WARANGAL,1000,3500,Central,2700
+2013,RANGAREDDY,1600,4800,Central,4000
+2013,Nalgonda,600,2000,Central,1500
+2013,Wanaparthy,500,1500,Central,1000
+2013,Narayanpet,350,1200,Central,800
+2013,Jogulamba Gadwal,350,1200,Central,700
+2013,SURYAPET,600,1500,Central,1200
+2013,KHAMMAM,700,1600,Central,1500
+2013,Mahabubabad,400,1100,Central,800
+2013,Bhadradri Kothagudem,450,1200,Central,800
+2013,Nagarkurnool,400,1000,Central,700
+2013,Adilabad,400,1000,Central,700
+2013,Kumuram Bheem Asifabad,350,900,Central,600
+2013,Mancherial,450,1100,Central,800
+2013,Nirmal,400,800,Central,600
+2013,Jagitial,350,800,Central,550
+2013,Nizamabad,300,700,Central,500
+2013,Peddapalli,300,700,Central,500
+2013,Kamareddy,300,700,Central,500
+2013, Rajanna Sircilla,250,600,Central,450
+2013,Karimnagar,300,700,Central,500
+2013,Hanumakonda,300,800,Central,600
+2013,Medak,300,700,Central,500
+2013,Siddipet,200,600,Central,400
+2013,Jangaon ,250,600,Central,450
+2013,Mulugu,150,550,Central,350
+2013,Jayashankar Bhupalpally,120,500,Central,300
+2013,Medchal-Malkajgiri,300,800,Central,600
+2013,Vikarabad,150,500,Central,350
+2013,Mahabubnagar,100,400,Central,200
+2013,Yadadri Bhuvanagiri,120,400,Central,250
+2013,HYDERABAD,2000,5000,East,2400
+2013,WARANGAL,1000,3500,East,1500
+2013,RANGAREDDY,1600,4800,East,2200
+2013,Nalgonda,600,2000,East,1000
+2013,Wanaparthy,500,1500,East,700
+2013,Narayanpet,350,1200,East,500
+2013,Jogulamba Gadwal,350,1200,East,500
+2013,SURYAPET,600,1500,East,900
+2013,KHAMMAM,700,1600,East,1200
+2013,Mahabubabad,400,1100,East,550
+2013,Bhadradri Kothagudem,450,1200,East,650
+2013,Nagarkurnool,400,1000,East,550
+2013,Adilabad,400,1000,East,550
+2013,Kumuram Bheem Asifabad,350,900,East,450
+2013,Mancherial,450,1100,East,650
+2013,Nirmal,400,800,East,500
+2013,Jagitial,350,800,East,450
+2013,Nizamabad,300,700,East,400
+2013,Peddapalli,300,700,East,400
+2013,Kamareddy,300,700,East,400
+2013, Rajanna Sircilla,250,600,East,350
+2013,Karimnagar,300,700,East,400
+2013,Hanumakonda,300,800,East,500
+2013,Medak,300,700,East,400
+2013,Siddipet,200,600,East,300
+2013,Jangaon ,250,600,East,350
+2013,Mulugu,150,550,East,250
+2013,Jayashankar Bhupalpally,120,500,East,200
+2013,Medchal-Malkajgiri,300,800,East,450
+2013,Vikarabad,150,500,East,250
+2013,Mahabubnagar,100,400,East,150
+2013,Yadadri Bhuvanagiri,120,400,East,180
+2013,HYDERABAD,2000,5000,North,3400
+2013,WARANGAL,1000,3500,North,1800
+2013,RANGAREDDY,1600,4800,North,2500
+2013,Nalgonda,600,2000,North,1200
+2013,Wanaparthy,500,1500,North,800
+2013,Narayanpet,350,1200,North,600
+2013,Jogulamba Gadwal,350,1200,North,600
+2013,SURYAPET,600,1500,North,1000
+2013,KHAMMAM,700,1600,North,1300
+2013,Mahabubabad,400,1100,North,600
+2013,Bhadradri Kothagudem,450,1200,North,700
+2013,Nagarkurnool,400,1000,North,600
+2013,Adilabad,400,1000,North,600
+2013,Kumuram Bheem Asifabad,350,900,North,500
+2013,Mancherial,450,1100,North,700
+2013,Nirmal,400,800,North,550
+2013,Jagitial,350,800,North,500
+2013,Nizamabad,300,700,North,450
+2013,Peddapalli,300,700,North,450
+2013,Kamareddy,300,700,North,450
+2013, Rajanna Sircilla,250,600,North,400
+2013,Karimnagar,300,700,North,450
+2013,Hanumakonda,300,800,North,550
+2013,Medak,300,700,North,450
+2013,Siddipet,200,600,North,350
+2013,Jangaon ,250,600,North,400
+2013,Mulugu,150,550,North,300
+2013,Jayashankar Bhupalpally,120,500,North,250
+2013,Medchal-Malkajgiri,300,800,North,500
+2013,Vikarabad,150,500,North,300
+2013,Mahabubnagar,100,400,North,180
+2013,Yadadri Bhuvanagiri,120,400,North,200
+2013,HYDERABAD,2000,5000,South,2000
+2013,WARANGAL,1000,3500,South,1300
+2013,RANGAREDDY,1600,4800,South,1800
+2013,Nalgonda,600,2000,South,800
+2013,Wanaparthy,500,1500,South,600
+2013,Narayanpet,350,1200,South,400
+2013,Jogulamba Gadwal,350,1200,South,400
+2013,SURYAPET,600,1500,South,800
+2013,KHAMMAM,700,1600,South,1000
+2013,Mahabubabad,400,1100,South,500
+2013,Bhadradri Kothagudem,450,1200,South,600
+2013,Nagarkurnool,400,1000,South,500
+2013,Adilabad,400,1000,South,500
+2013,Kumuram Bheem Asifabad,350,900,South,400
+2013,Mancherial,450,1100,South,600
+2013,Nirmal,400,800,South,450
+2013,Jagitial,350,800,South,400
+2013,Nizamabad,300,700,South,350
+2013,Peddapalli,300,700,South,350
+2013,Kamareddy,300,700,South,350
+2013, Rajanna Sircilla,250,600,South,300
+2013,Karimnagar,300,700,South,350
+2013,Hanumakonda,300,800,South,400
+2013,Medak,300,700,South,350
+2013,Siddipet,200,600,South,250
+2013,Jangaon ,250,600,South,300
+2013,Mulugu,150,550,South,200
+2013,Jayashankar Bhupalpally,120,500,South,150
+2013,Medchal-Malkajgiri,300,800,South,400
+2013,Vikarabad,150,500,South,200
+2013,Mahabubnagar,100,400,South,120
+2013,Yadadri Bhuvanagiri,120,400,South,150
+2013,HYDERABAD,2000,5000,West,3300
+2013,WARANGAL,1000,3500,West,2100
+2013,RANGAREDDY,1600,4800,West,3000
+2013,Nalgonda,600,2000,West,1300
+2013,Wanaparthy,500,1500,West,900
+2013,Narayanpet,350,1200,West,700
+2013,Jogulamba Gadwal,350,1200,West,600
+2013,SURYAPET,600,1500,West,1100
+2013,KHAMMAM,700,1600,West,1400
+2013,Mahabubabad,400,1100,West,650
+2013,Bhadradri Kothagudem,450,1200,West,750
+2013,Nagarkurnool,400,1000,West,650
+2013,Adilabad,400,1000,West,650
+2013,Kumuram Bheem Asifabad,350,900,West,550
+2013,Mancherial,450,1100,West,750
+2013,Nirmal,400,800,West,550
+2013,Jagitial,350,800,West,500
+2013,Nizamabad,300,700,West,450
+2013,Peddapalli,300,700,West,450
+2013,Kamareddy,300,700,West,450
+2013, Rajanna Sircilla,250,600,West,400
+2013,Karimnagar,300,700,West,450
+2013,Hanumakonda,300,800,West,550
+2013,Medak,300,700,West,450
+2013,Siddipet,200,600,West,350
+2013,Jangaon ,250,600,West,400
+2013,Mulugu,150,550,West,300
+2013,Jayashankar Bhupalpally,120,500,West,250
+2013,Medchal-Malkajgiri,300,800,West,500
+2013,Vikarabad,150,500,West,300
+2013,Mahabubnagar,100,400,West,180
+2013,Yadadri Bhuvanagiri,120,400,West,220
+2014,HYDERABAD,2000,5200,Central,4500
+2014,WARANGAL,1200,4000,Central,3200
+2014,RANGAREDDY,1700,5000,Central,4200
+2014,Nalgonda,700,2200,Central,1600
+2014,Wanaparthy,600,1600,Central,1100
+2014,Narayanpet,400,1300,Central,900
+2014,Jogulamba Gadwal,400,1300,Central,800
+2014,SURYAPET,650,1600,Central,1300
+2014,KHAMMAM,750,1700,Central,1600
+2014,Mahabubabad,450,1200,Central,900
+2014,Bhadradri Kothagudem,500,1300,Central,900
+2014,Nagarkurnool,450,1100,Central,800
+2014,Adilabad,450,1100,Central,800
+2014,Kumuram Bheem Asifabad,400,1000,Central,700
+2014,Mancherial,500,1200,Central,900
+2014,Nirmal,450,900,Central,700
+2014,Jagitial,400,900,Central,600
+2014,Nizamabad,350,800,Central,600
+2014,Peddapalli,350,800,Central,600
+2014,Kamareddy,350,800,Central,600
+2014, Rajanna Sircilla,300,700,Central,500
+2014,Karimnagar,350,800,Central,600
+2014,Hanumakonda,350,900,Central,700
+2014,Medak,350,800,Central,600
+2014,Siddipet,300,700,Central,500
+2014,Jangaon ,300,700,Central,500
+2014,Mulugu,200,600,Central,400
+2014,Jayashankar Bhupalpally,150,550,Central,350
+2014,Medchal-Malkajgiri,350,900,Central,700
+2014,Vikarabad,180,550,Central,400
+2014,Mahabubnagar,120,450,Central,250
+2014,Yadadri Bhuvanagiri,150,450,Central,300
+2014,HYDERABAD,2000,5200,East,2500
+2014,WARANGAL,1200,4000,East,1800
+2014,RANGAREDDY,1700,5000,East,2300
+2014,Nalgonda,700,2200,East,1100
+2014,Wanaparthy,600,1600,East,800
+2014,Narayanpet,400,1300,East,600
+2014,Jogulamba Gadwal,400,1300,East,600
+2014,SURYAPET,650,1600,East,1000
+2014,KHAMMAM,750,1700,East,1300
+2014,Mahabubabad,450,1200,East,650
+2014,Bhadradri Kothagudem,500,1300,East,750
+2014,Nagarkurnool,450,1100,East,650
+2014,Adilabad,450,1100,East,650
+2014,Kumuram Bheem Asifabad,400,1000,East,550
+2014,Mancherial,500,1200,East,750
+2014,Nirmal,450,900,East,600
+2014,Jagitial,400,900,East,500
+2014,Nizamabad,350,800,East,500
+2014,Peddapalli,350,800,East,500
+2014,Kamareddy,350,800,East,500
+2014, Rajanna Sircilla,300,700,East,400
+2014,Karimnagar,350,800,East,500
+2014,Hanumakonda,350,900,East,600
+2014,Medak,350,800,East,500
+2014,Siddipet,300,700,East,400
+2014,Jangaon ,300,700,East,400
+2014,Mulugu,200,600,East,300
+2014,Jayashankar Bhupalpally,150,550,East,250
+2014,Medchal-Malkajgiri,350,900,East,500
+2014,Vikarabad,180,550,East,300
+2014,Mahabubnagar,120,450,East,180
+2014,Yadadri Bhuvanagiri,150,450,East,220
+2014,HYDERABAD,2000,5200,North,3000
+2014,WARANGAL,1200,4000,North,2100
+2014,RANGAREDDY,1700,5000,North,2600
+2014,Nalgonda,700,2200,North,1300
+2014,Wanaparthy,600,1600,North,900
+2014,Narayanpet,400,1300,North,700
+2014,Jogulamba Gadwal,400,1300,North,700
+2014,SURYAPET,650,1600,North,1100
+2014,KHAMMAM,750,1700,North,1400
+2014,Mahabubabad,450,1200,North,700
+2014,Bhadradri Kothagudem,500,1300,North,800
+2014,Nagarkurnool,450,1100,North,700
+2014,Adilabad,450,1100,North,700
+2014,Kumuram Bheem Asifabad,400,1000,North,600
+2014,Mancherial,500,1200,North,800
+2014,Nirmal,450,900,North,650
+2014,Jagitial,400,900,North,550
+2014,Nizamabad,350,800,North,550
+2014,Peddapalli,350,800,North,550
+2014,Kamareddy,350,800,North,550
+2014, Rajanna Sircilla,300,700,North,450
+2014,Karimnagar,350,800,North,550
+2014,Hanumakonda,350,900,North,650
+2014,Medak,350,800,North,550
+2014,Siddipet,300,700,North,450
+2014,Jangaon ,300,700,North,450
+2014,Mulugu,200,600,North,350
+2014,Jayashankar Bhupalpally,150,550,North,300
+2014,Medchal-Malkajgiri,350,900,North,600
+2014,Vikarabad,180,550,North,350
+2014,Mahabubnagar,120,450,North,220
+2014,Yadadri Bhuvanagiri,150,450,North,250
+2014,HYDERABAD,2000,5200,South,2100
+2014,WARANGAL,1200,4000,South,1400
+2014,RANGAREDDY,1700,5000,South,1900
+2014,Nalgonda,700,2200,South,900
+2014,Wanaparthy,600,1600,South,700
+2014,Narayanpet,400,1300,South,500
+2014,Jogulamba Gadwal,400,1300,South,500
+2014,SURYAPET,650,1600,South,900
+2014,KHAMMAM,750,1700,South,1100
+2014,Mahabubabad,450,1200,South,600
+2014,Bhadradri Kothagudem,500,1300,South,700
+2014,Nagarkurnool,450,1100,South,600
+2014,Adilabad,450,1100,South,600
+2014,Kumuram Bheem Asifabad,400,1000,South,500
+2014,Mancherial,500,1200,South,650
+2014,Nirmal,450,900,South,500
+2014,Jagitial,400,900,South,450
+2014,Nizamabad,350,800,South,450
+2014,Peddapalli,350,800,South,450
+2014,Kamareddy,350,800,South,450
+2014, Rajanna Sircilla,300,700,South,350
+2014,Karimnagar,350,800,South,450
+2014,Hanumakonda,350,900,South,450
+2014,Medak,350,800,South,450
+2014,Siddipet,300,700,South,350
+2014,Jangaon ,300,700,South,350
+2014,Mulugu,200,600,South,250
+2014,Jayashankar Bhupalpally,150,550,South,200
+2014,Medchal-Malkajgiri,350,900,South,450
+2014,Vikarabad,180,550,South,250
+2014,Mahabubnagar,120,450,South,150
+2014,Yadadri Bhuvanagiri,150,450,South,180
+2014,HYDERABAD,2000,5200,West,3500
+2014,WARANGAL,1200,4000,West,2400
+2014,RANGAREDDY,1700,5000,West,3200
+2014,Nalgonda,700,2200,West,1400
+2014,Wanaparthy,600,1600,West,1000
+2014,Narayanpet,400,1300,West,800
+2014,Jogulamba Gadwal,400,1300,West,700
+2014,SURYAPET,650,1600,West,1200
+2014,KHAMMAM,750,1700,West,1500
+2014,Mahabubabad,450,1200,West,750
+2014,Bhadradri Kothagudem,500,1300,West,850
+2014,Nagarkurnool,450,1100,West,750
+2014,Adilabad,450,1100,West,750
+2014,Kumuram Bheem Asifabad,400,1000,West,650
+2014,Mancherial,500,1200,West,850
+2014,Nirmal,450,900,West,650
+2014,Jagitial,400,900,West,600
+2014,Nizamabad,350,800,West,600
+2014,Peddapalli,350,800,West,600
+2014,Kamareddy,350,800,West,600
+2014, Rajanna Sircilla,300,700,West,450
+2014,Karimnagar,350,800,West,600
+2014,Hanumakonda,350,900,West,650
+2014,Medak,350,800,West,600
+2014,Siddipet,300,700,West,450
+2014,Jangaon ,300,700,West,450
+2014,Mulugu,200,600,West,350
+2014,Jayashankar Bhupalpally,150,550,West,300
+2014,Medchal-Malkajgiri,350,900,West,600
+2014,Vikarabad,180,550,West,350
+2014,Mahabubnagar,120,450,West,220
+2014,Yadadri Bhuvanagiri,150,450,West,270
+2015,HYDERABAD,2500,5300,Central,4800
+2015,WARANGAL,1300,4200,Central,3400
+2015,RANGAREDDY,1800,5200,Central,4500
+2015,Nalgonda,800,2400,Central,1700
+2015,Wanaparthy,700,1700,Central,1200
+2015,Narayanpet,450,1400,Central,1000
+2015,Jogulamba Gadwal,450,1400,Central,900
+2015,SURYAPET,700,1700,Central,1400
+2015,KHAMMAM,800,1800,Central,1700
+2015,Mahabubabad,500,1300,Central,1000
+2015,Bhadradri Kothagudem,550,1400,Central,1000
+2015,Nagarkurnool,500,1200,Central,900
+2015,Adilabad,500,1200,Central,900
+2015,Kumuram Bheem Asifabad,450,1100,Central,800
+2015,Mancherial,550,1300,Central,1000
+2015,Nirmal,500,1000,Central,800
+2015,Jagitial,450,1000,Central,700
+2015,Nizamabad,400,900,Central,700
+2015,Peddapalli,400,900,Central,700
+2015,Kamareddy,400,900,Central,700
+2015, Rajanna Sircilla,350,800,Central,600
+2015,Karimnagar,400,900,Central,700
+2015,Hanumakonda,400,1000,Central,800
+2015,Medak,400,900,Central,700
+2015,Siddipet,350,800,Central,600
+2015,Jangaon ,350,800,Central,600
+2015,Mulugu,250,700,Central,500
+2015,Jayashankar Bhupalpally,200,600,Central,450
+2015,Medchal-Malkajgiri,400,1000,Central,800
+2015,Vikarabad,200,600,Central,450
+2015,Mahabubnagar,150,500,Central,300
+2015,Yadadri Bhuvanagiri,180,500,Central,350
+2015,HYDERABAD,2500,5300,East,2700
+2015,WARANGAL,1300,4200,East,1900
+2015,RANGAREDDY,1800,5200,East,2500
+2015,Nalgonda,800,2400,East,1200
+2015,Wanaparthy,700,1700,East,900
+2015,Narayanpet,450,1400,East,700
+2015,Jogulamba Gadwal,450,1400,East,700
+2015,SURYAPET,700,1700,East,1100
+2015,KHAMMAM,800,1800,East,1400
+2015,Mahabubabad,500,1300,East,700
+2015,Bhadradri Kothagudem,550,1400,East,800
+2015,Nagarkurnool,500,1200,East,750
+2015,Adilabad,500,1200,East,750
+2015,Kumuram Bheem Asifabad,450,1100,East,650
+2015,Mancherial,550,1300,East,850
+2015,Nirmal,500,1000,East,650
+2015,Jagitial,450,1000,East,600
+2015,Nizamabad,400,900,East,600
+2015,Peddapalli,400,900,East,600
+2015,Kamareddy,400,900,East,600
+2015, Rajanna Sircilla,350,800,East,500
+2015,Karimnagar,400,900,East,600
+2015,Hanumakonda,400,1000,East,700
+2015,Medak,400,900,East,600
+2015,Siddipet,350,800,East,500
+2015,Jangaon ,350,800,East,500
+2015,Mulugu,250,700,East,400
+2015,Jayashankar Bhupalpally,200,600,East,350
+2015,Medchal-Malkajgiri,400,1000,East,600
+2015,Vikarabad,200,600,East,350
+2015,Mahabubnagar,150,500,East,220
+2015,Yadadri Bhuvanagiri,180,500,East,270
+2015,HYDERABAD,2500,5300,North,3200
+2015,WARANGAL,1300,4200,North,2200
+2015,RANGAREDDY,1800,5200,North,2800
+2015,Nalgonda,800,2400,North,1400
+2015,Wanaparthy,700,1700,North,1000
+2015,Narayanpet,450,1400,North,800
+2015,Jogulamba Gadwal,450,1400,North,800
+2015,SURYAPET,700,1700,North,1200
+2015,KHAMMAM,800,1800,North,1500
+2015,Mahabubabad,500,1300,North,800
+2015,Bhadradri Kothagudem,550,1400,North,900
+2015,Nagarkurnool,500,1200,North,800
+2015,Adilabad,500,1200,North,800
+2015,Kumuram Bheem Asifabad,450,1100,North,700
+2015,Mancherial,550,1300,North,900
+2015,Nirmal,500,1000,North,700
+2015,Jagitial,450,1000,North,650
+2015,Nizamabad,400,900,North,650
+2015,Peddapalli,400,900,North,650
+2015,Kamareddy,400,900,North,650
+2015, Rajanna Sircilla,350,800,North,550
+2015,Karimnagar,400,900,North,650
+2015,Hanumakonda,400,1000,North,750
+2015,Medak,400,900,North,650
+2015,Siddipet,350,800,North,550
+2015,Jangaon ,350,800,North,550
+2015,Mulugu,250,700,North,450
+2015,Jayashankar Bhupalpally,200,600,North,400
+2015,Medchal-Malkajgiri,400,1000,North,700
+2015,Vikarabad,200,600,North,400
+2015,Mahabubnagar,150,500,North,250
+2015,Yadadri Bhuvanagiri,180,500,North,300
+2015,HYDERABAD,2500,5300,South,2200
+2015,WARANGAL,1300,4200,South,1600
+2015,RANGAREDDY,1800,5200,South,2000
+2015,Nalgonda,800,2400,South,1000
+2015,Wanaparthy,700,1700,South,800
+2015,Narayanpet,450,1400,South,600
+2015,Jogulamba Gadwal,450,1400,South,600
+2015,SURYAPET,700,1700,South,1000
+2015,KHAMMAM,800,1800,South,1200
+2015,Mahabubabad,500,1300,South,650
+2015,Bhadradri Kothagudem,550,1400,South,750
+2015,Nagarkurnool,500,1200,South,650
+2015,Adilabad,500,1200,South,650
+2015,Kumuram Bheem Asifabad,450,1100,South,550
+2015,Mancherial,550,1300,South,700
+2015,Nirmal,500,1000,South,550
+2015,Jagitial,450,1000,South,500
+2015,Nizamabad,400,900,South,500
+2015,Peddapalli,400,900,South,500
+2015,Kamareddy,400,900,South,500
+2015, Rajanna Sircilla,350,800,South,450
+2015,Karimnagar,400,900,South,500
+2015,Hanumakonda,400,1000,South,500
+2015,Medak,400,900,South,500
+2015,Siddipet,350,800,South,400
+2015,Jangaon ,350,800,South,400
+2015,Mulugu,250,700,South,300
+2015,Jayashankar Bhupalpally,200,600,South,250
+2015,Medchal-Malkajgiri,400,1000,South,500
+2015,Vikarabad,200,600,South,250
+2015,Mahabubnagar,150,500,South,180
+2015,Yadadri Bhuvanagiri,180,500,South,200
+2015,HYDERABAD,2500,5300,West,3700
+2015,WARANGAL,1300,4200,West,2500
+2015,RANGAREDDY,1800,5200,West,3400
+2015,Nalgonda,800,2400,West,1500
+2015,Wanaparthy,700,1700,West,1100
+2015,Narayanpet,450,1400,West,900
+2015,Jogulamba Gadwal,450,1400,West,800
+2015,SURYAPET,700,1700,West,1300
+2015,KHAMMAM,800,1800,West,1600
+2015,Mahabubabad,500,1300,West,850
+2015,Bhadradri Kothagudem,550,1400,West,950
+2015,Nagarkurnool,500,1200,West,850
+2015,Adilabad,500,1200,West,850
+2015,Kumuram Bheem Asifabad,450,1100,West,750
+2015,Mancherial,550,1300,West,950
+2015,Nirmal,500,1000,West,750
+2015,Jagitial,450,1000,West,700
+2015,Nizamabad,400,900,West,700
+2015,Peddapalli,400,900,West,700
+2015,Kamareddy,400,900,West,700
+2015, Rajanna Sircilla,350,800,West,600
+2015,Karimnagar,400,900,West,700
+2015,Hanumakonda,400,1000,West,750
+2015,Medak,400,900,West,700
+2015,Siddipet,350,800,West,550
+2015,Jangaon ,350,800,West,550
+2015,Mulugu,250,700,West,450
+2015,Jayashankar Bhupalpally,200,600,West,400
+2015,Medchal-Malkajgiri,400,1000,West,700
+2015,Vikarabad,200,600,West,400
+2015,Mahabubnagar,150,500,West,250
+2015,Yadadri Bhuvanagiri,180,500,West,320
+2016,HYDERABAD,2500,5600,Central,5100
+2016,WARANGAL,1400,4400,Central,3600
+2016,RANGAREDDY,1900,5400,Central,4700
+2016,Nalgonda,900,2600,Central,1800
+2016,Wanaparthy,800,1800,Central,1300
+2016,Narayanpet,500,1500,Central,1100
+2016,Jogulamba Gadwal,500,1500,Central,1000
+2016,SURYAPET,750,1800,Central,1500
+2016,KHAMMAM,850,1900,Central,1800
+2016,Mahabubabad,550,1400,Central,1100
+2016,Bhadradri Kothagudem,600,1500,Central,1100
+2016,Nagarkurnool,550,1300,Central,1000
+2016,Adilabad,550,1300,Central,1000
+2016,Kumuram Bheem Asifabad,500,1200,Central,900
+2016,Mancherial,600,1400,Central,1100
+2016,Nirmal,550,1100,Central,900
+2016,Jagitial,500,1100,Central,800
+2016,Nizamabad,450,1000,Central,800
+2016,Peddapalli,450,1000,Central,800
+2016,Kamareddy,450,1000,Central,800
+2016, Rajanna Sircilla,400,900,Central,700
+2016,Karimnagar,450,1000,Central,800
+2016,Hanumakonda,450,1100,Central,900
+2016,Medak,450,1000,Central,800
+2016,Siddipet,400,900,Central,700
+2016,Jangaon ,400,900,Central,700
+2016,Mulugu,300,800,Central,600
+2016,Jayashankar Bhupalpally,250,700,Central,500
+2016,Medchal-Malkajgiri,450,1100,Central,900
+2016,Vikarabad,250,700,Central,500
+2016,Mahabubnagar,180,600,Central,350
+2016,Yadadri Bhuvanagiri,200,600,Central,400
+2016,HYDERABAD,2500,5600,East,2900
+2016,WARANGAL,1400,4400,East,2000
+2016,RANGAREDDY,1900,5400,East,2600
+2016,Nalgonda,900,2600,East,1300
+2016,Wanaparthy,800,1800,East,1000
+2016,Narayanpet,500,1500,East,800
+2016,Jogulamba Gadwal,500,1500,East,800
+2016,SURYAPET,750,1800,East,1200
+2016,KHAMMAM,850,1900,East,1500
+2016,Mahabubabad,550,1400,East,800
+2016,Bhadradri Kothagudem,600,1500,East,900
+2016,Nagarkurnool,550,1300,East,850
+2016,Adilabad,550,1300,East,850
+2016,Kumuram Bheem Asifabad,500,1200,East,750
+2016,Mancherial,600,1400,East,950
+2016,Nirmal,550,1100,East,750
+2016,Jagitial,500,1100,East,700
+2016,Nizamabad,450,1000,East,700
+2016,Peddapalli,450,1000,East,700
+2016,Kamareddy,450,1000,East,700
+2016, Rajanna Sircilla,400,900,East,600
+2016,Karimnagar,450,1000,East,700
+2016,Hanumakonda,450,1100,East,800
+2016,Medak,450,1000,East,700
+2016,Siddipet,400,900,East,600
+2016,Jangaon ,400,900,East,600
+2016,Mulugu,300,800,East,500
+2016,Jayashankar Bhupalpally,250,700,East,400
+2016,Medchal-Malkajgiri,450,1100,East,700
+2016,Vikarabad,250,700,East,400
+2016,Mahabubnagar,180,600,East,250
+2016,Yadadri Bhuvanagiri,200,600,East,300
+2016,HYDERABAD,2500,5600,North,3400
+2016,WARANGAL,1400,4400,North,2300
+2016,RANGAREDDY,1900,5400,North,2900
+2016,Nalgonda,900,2600,North,1500
+2016,Wanaparthy,800,1800,North,1100
+2016,Narayanpet,500,1500,North,900
+2016,Jogulamba Gadwal,500,1500,North,900
+2016,SURYAPET,750,1800,North,1300
+2016,KHAMMAM,850,1900,North,1600
+2016,Mahabubabad,550,1400,North,900
+2016,Bhadradri Kothagudem,600,1500,North,1000
+2016,Nagarkurnool,550,1300,North,900
+2016,Adilabad,550,1300,North,900
+2016,Kumuram Bheem Asifabad,500,1200,North,800
+2016,Mancherial,600,1400,North,1000
+2016,Nirmal,550,1100,North,800
+2016,Jagitial,500,1100,North,750
+2016,Nizamabad,450,1000,North,750
+2016,Peddapalli,450,1000,North,750
+2016,Kamareddy,450,1000,North,750
+2016, Rajanna Sircilla,400,900,North,650
+2016,Karimnagar,450,1000,North,750
+2016,Hanumakonda,450,1100,North,850
+2016,Medak,450,1000,North,750
+2016,Siddipet,400,900,North,650
+2016,Jangaon ,400,900,North,650
+2016,Mulugu,300,800,North,550
+2016,Jayashankar Bhupalpally,250,700,North,450
+2016,Medchal-Malkajgiri,450,1100,North,800
+2016,Vikarabad,250,700,North,450
+2016,Mahabubnagar,180,600,North,300
+2016,Yadadri Bhuvanagiri,200,600,North,350
+2016,HYDERABAD,2500,5600,South,2400
+2016,WARANGAL,1400,4400,South,1700
+2016,RANGAREDDY,1900,5400,South,2100
+2016,Nalgonda,900,2600,South,1100
+2016,Wanaparthy,800,1800,South,900
+2016,Narayanpet,500,1500,South,700
+2016,Jogulamba Gadwal,500,1500,South,700
+2016,SURYAPET,750,1800,South,1100
+2016,KHAMMAM,850,1900,South,1300
+2016,Mahabubabad,550,1400,South,700
+2016,Bhadradri Kothagudem,600,1500,South,800
+2016,Nagarkurnool,550,1300,South,700
+2016,Adilabad,550,1300,South,700
+2016,Kumuram Bheem Asifabad,500,1200,South,600
+2016,Mancherial,600,1400,South,750
+2016,Nirmal,550,1100,South,600
+2016,Jagitial,500,1100,South,550
+2016,Nizamabad,450,1000,South,550
+2016,Peddapalli,450,1000,South,550
+2016,Kamareddy,450,1000,South,550
+2016, Rajanna Sircilla,400,900,South,500
+2016,Karimnagar,450,1000,South,550
+2016,Hanumakonda,450,1100,South,550
+2016,Medak,450,1000,South,550
+2016,Siddipet,400,900,South,450
+2016,Jangaon ,400,900,South,450
+2016,Mulugu,300,800,South,350
+2016,Jayashankar Bhupalpally,250,700,South,300
+2016,Medchal-Malkajgiri,450,1100,South,550
+2016,Vikarabad,250,700,South,300
+2016,Mahabubnagar,180,600,South,200
+2016,Yadadri Bhuvanagiri,200,600,South,220
+2016,HYDERABAD,2500,5600,West,4000
+2016,WARANGAL,1400,4400,West,2700
+2016,RANGAREDDY,1900,5400,West,3600
+2016,Nalgonda,900,2600,West,1600
+2016,Wanaparthy,800,1800,West,1200
+2016,Narayanpet,500,1500,West,1000
+2016,Jogulamba Gadwal,500,1500,West,900
+2016,SURYAPET,750,1800,West,1400
+2016,KHAMMAM,850,1900,West,1700
+2016,Mahabubabad,550,1400,West,950
+2016,Bhadradri Kothagudem,600,1500,West,1050
+2016,Nagarkurnool,550,1300,West,950
+2016,Adilabad,550,1300,West,950
+2016,Kumuram Bheem Asifabad,500,1200,West,850
+2016,Mancherial,600,1400,West,1050
+2016,Nirmal,550,1100,West,850
+2016,Jagitial,500,1100,West,800
+2016,Nizamabad,450,1000,West,800
+2016,Peddapalli,450,1000,West,800
+2016,Kamareddy,450,1000,West,800
+2016, Rajanna Sircilla,400,900,West,700
+2016,Karimnagar,450,1000,West,800
+2016,Hanumakonda,450,1100,West,850
+2016,Medak,450,1000,West,800
+2016,Siddipet,400,900,West,650
+2016,Jangaon ,400,900,West,650
+2016,Mulugu,300,800,West,550
+2016,Jayashankar Bhupalpally,250,700,West,450
+2016,Medchal-Malkajgiri,450,1100,West,800
+2016,Vikarabad,250,700,West,450
+2016,Mahabubnagar,180,600,West,300
+2016,Yadadri Bhuvanagiri,200,600,West,370
+2017,HYDERABAD,3000,5900,Central,5400
+2017,WARANGAL,1500,4600,Central,3800
+2017,RANGAREDDY,2000,5600,Central,4900
+2017,Nalgonda,1000,2800,Central,1900
+2017,Wanaparthy,900,1900,Central,1400
+2017,Narayanpet,550,1600,Central,1200
+2017,Jogulamba Gadwal,550,1600,Central,1100
+2017,SURYAPET,800,1900,Central,1600
+2017,KHAMMAM,900,2000,Central,1900
+2017,Mahabubabad,600,1500,Central,1200
+2017,Bhadradri Kothagudem,650,1600,Central,1200
+2017,Nagarkurnool,600,1400,Central,1100
+2017,Adilabad,600,1400,Central,1100
+2017,Kumuram Bheem Asifabad,550,1300,Central,1000
+2017,Mancherial,650,1500,Central,1200
+2017,Nirmal,600,1200,Central,1000
+2017,Jagitial,550,1200,Central,900
+2017,Nizamabad,500,1100,Central,900
+2017,Peddapalli,500,1100,Central,900
+2017,Kamareddy,500,1100,Central,900
+2017, Rajanna Sircilla,450,1000,Central,800
+2017,Karimnagar,500,1100,Central,900
+2017,Hanumakonda,500,1200,Central,1000
+2017,Medak,500,1100,Central,900
+2017,Siddipet,450,1000,Central,800
+2017,Jangaon ,450,1000,Central,800
+2017,Mulugu,350,900,Central,700
+2017,Jayashankar Bhupalpally,300,800,Central,600
+2017,Medchal-Malkajgiri,500,1200,Central,1000
+2017,Vikarabad,300,800,Central,600
+2017,Mahabubnagar,200,700,Central,400
+2017,Yadadri Bhuvanagiri,250,700,Central,500
+2017,HYDERABAD,3000,5900,East,3100
+2017,WARANGAL,1500,4600,East,2100
+2017,RANGAREDDY,2000,5600,East,2700
+2017,Nalgonda,1000,2800,East,1400
+2017,Wanaparthy,900,1900,East,1100
+2017,Narayanpet,550,1600,East,900
+2017,Jogulamba Gadwal,550,1600,East,900
+2017,SURYAPET,800,1900,East,1300
+2017,KHAMMAM,900,2000,East,1600
+2017,Mahabubabad,600,1500,East,900
+2017,Bhadradri Kothagudem,650,1600,East,1000
+2017,Nagarkurnool,600,1400,East,900
+2017,Adilabad,600,1400,East,900
+2017,Kumuram Bheem Asifabad,550,1300,East,850
+2017,Mancherial,650,1500,East,1000
+2017,Nirmal,600,1200,East,850
+2017,Jagitial,550,1200,East,800
+2017,Nizamabad,500,1100,East,800
+2017,Peddapalli,500,1100,East,800
+2017,Kamareddy,500,1100,East,800
+2017, Rajanna Sircilla,450,1000,East,700
+2017,Karimnagar,500,1100,East,800
+2017,Hanumakonda,500,1200,East,900
+2017,Medak,500,1100,East,800
+2017,Siddipet,450,1000,East,700
+2017,Jangaon ,450,1000,East,700
+2017,Mulugu,350,900,East,600
+2017,Jayashankar Bhupalpally,300,800,East,500
+2017,Medchal-Malkajgiri,500,1200,East,800
+2017,Vikarabad,300,800,East,500
+2017,Mahabubnagar,200,700,East,300
+2017,Yadadri Bhuvanagiri,250,700,East,400
+2017,HYDERABAD,3000,5900,North,3600
+2017,WARANGAL,1500,4600,North,2400
+2017,RANGAREDDY,2000,5600,North,3000
+2017,Nalgonda,1000,2800,North,1600
+2017,Wanaparthy,900,1900,North,1200
+2017,Narayanpet,550,1600,North,1000
+2017,Jogulamba Gadwal,550,1600,North,1000
+2017,SURYAPET,800,1900,North,1400
+2017,KHAMMAM,900,2000,North,1700
+2017,Mahabubabad,600,1500,North,1000
+2017,Bhadradri Kothagudem,650,1600,North,1100
+2017,Nagarkurnool,600,1400,North,1000
+2017,Adilabad,600,1400,North,1000
+2017,Kumuram Bheem Asifabad,550,1300,North,900
+2017,Mancherial,650,1500,North,1100
+2017,Nirmal,600,1200,North,900
+2017,Jagitial,550,1200,North,850
+2017,Nizamabad,500,1100,North,850
+2017,Peddapalli,500,1100,North,850
+2017,Kamareddy,500,1100,North,850
+2017, Rajanna Sircilla,450,1000,North,750
+2017,Karimnagar,500,1100,North,850
+2017,Hanumakonda,500,1200,North,950
+2017,Medak,500,1100,North,850
+2017,Siddipet,450,1000,North,750
+2017,Jangaon ,450,1000,North,750
+2017,Mulugu,350,900,North,650
+2017,Jayashankar Bhupalpally,300,800,North,550
+2017,Medchal-Malkajgiri,500,1200,North,900
+2017,Vikarabad,300,800,North,550
+2017,Mahabubnagar,200,700,North,350
+2017,Yadadri Bhuvanagiri,250,700,North,450
+2017,HYDERABAD,3000,5900,South,2600
+2017,WARANGAL,1500,4600,South,1800
+2017,RANGAREDDY,2000,5600,South,2200
+2017,Nalgonda,1000,2800,South,1200
+2017,Wanaparthy,900,1900,South,1000
+2017,Narayanpet,550,1600,South,800
+2017,Jogulamba Gadwal,550,1600,South,800
+2017,SURYAPET,800,1900,South,1200
+2017,KHAMMAM,900,2000,South,1400
+2017,Mahabubabad,600,1500,South,750
+2017,Bhadradri Kothagudem,650,1600,South,850
+2017,Nagarkurnool,600,1400,South,750
+2017,Adilabad,600,1400,South,750
+2017,Kumuram Bheem Asifabad,550,1300,South,650
+2017,Mancherial,650,1500,South,800
+2017,Nirmal,600,1200,South,650
+2017,Jagitial,550,1200,South,600
+2017,Nizamabad,500,1100,South,600
+2017,Peddapalli,500,1100,South,600
+2017,Kamareddy,500,1100,South,600
+2017, Rajanna Sircilla,450,1000,South,550
+2017,Karimnagar,500,1100,South,600
+2017,Hanumakonda,500,1200,South,600
+2017,Medak,500,1100,South,600
+2017,Siddipet,450,1000,South,500
+2017,Jangaon ,450,1000,South,500
+2017,Mulugu,350,900,South,400
+2017,Jayashankar Bhupalpally,300,800,South,350
+2017,Medchal-Malkajgiri,500,1200,South,600
+2017,Vikarabad,300,800,South,350
+2017,Mahabubnagar,200,700,South,250
+2017,Yadadri Bhuvanagiri,250,700,South,250
+2017,HYDERABAD,3000,5900,West,4300
+2017,WARANGAL,1500,4600,West,2900
+2017,RANGAREDDY,2000,5600,West,3800
+2017,Nalgonda,1000,2800,West,1700
+2017,Wanaparthy,900,1900,West,1300
+2017,Narayanpet,550,1600,West,1100
+2017,Jogulamba Gadwal,550,1600,West,1000
+2017,SURYAPET,800,1900,West,1500
+2017,KHAMMAM,900,2000,West,1800
+2017,Mahabubabad,600,1500,West,1050
+2017,Bhadradri Kothagudem,650,1600,West,1150
+2017,Nagarkurnool,600,1400,West,1050
+2017,Adilabad,600,1400,West,1050
+2017,Kumuram Bheem Asifabad,550,1300,West,950
+2017,Mancherial,650,1500,West,1150
+2017,Nirmal,600,1200,West,950
+2017,Jagitial,550,1200,West,900
+2017,Nizamabad,500,1100,West,950
+2017,Peddapalli,500,1100,West,950
+2017,Kamareddy,500,1100,West,950
+2017, Rajanna Sircilla,450,1000,West,800
+2017,Karimnagar,500,1100,West,950
+2017,Hanumakonda,500,1200,West,1000
+2017,Medak,500,1100,West,950
+2017,Siddipet,450,1000,West,800
+2017,Jangaon ,450,1000,West,800
+2017,Mulugu,350,900,West,650
+2017,Jayashankar Bhupalpally,300,800,West,550
+2017,Medchal-Malkajgiri,500,1200,West,900
+2017,Vikarabad,300,800,West,550
+2017,Mahabubnagar,200,700,West,350
+2017,Yadadri Bhuvanagiri,250,700,West,470
+2018,HYDERABAD,3000,6200,Central,5700
+2018,WARANGAL,1600,4800,Central,4000
+2018,RANGAREDDY,2100,5800,Central,5200
+2018,Nalgonda,1100,3000,Central,2000
+2018,Wanaparthy,1000,2000,Central,1500
+2018,Narayanpet,600,1700,Central,1300
+2018,Jogulamba Gadwal,600,1700,Central,1200
+2018,SURYAPET,850,2000,Central,1700
+2018,KHAMMAM,950,2100,Central,2000
+2018,Mahabubabad,650,1600,Central,1300
+2018,Bhadradri Kothagudem,700,1700,Central,1300
+2018,Nagarkurnool,650,1500,Central,1200
+2018,Adilabad,650,1500,Central,1200
+2018,Kumuram Bheem Asifabad,600,1400,Central,1100
+2018,Mancherial,700,1600,Central,1300
+2018,Nirmal,650,1300,Central,1100
+2018,Jagitial,600,1300,Central,1000
+2018,Nizamabad,550,1200,Central,1000
+2018,Peddapalli,550,1200,Central,1000
+2018,Kamareddy,550,1200,Central,1000
+2018, Rajanna Sircilla,500,1100,Central,900
+2018,Karimnagar,550,1200,Central,1000
+2018,Hanumakonda,550,1300,Central,1100
+2018,Medak,550,1200,Central,1000
+2018,Siddipet,500,1100,Central,900
+2018,Jangaon ,500,1100,Central,900
+2018,Mulugu,400,1000,Central,800
+2018,Jayashankar Bhupalpally,350,900,Central,700
+2018,Medchal-Malkajgiri,550,1300,Central,1100
+2018,Vikarabad,350,900,Central,700
+2018,Mahabubnagar,250,800,Central,450
+2018,Yadadri Bhuvanagiri,300,800,Central,600
+2018,HYDERABAD,3000,6200,East,3300
+2018,WARANGAL,1600,4800,East,2200
+2018,RANGAREDDY,2100,5800,East,2900
+2018,Nalgonda,1100,3000,East,1500
+2018,Wanaparthy,1000,2000,East,1200
+2018,Narayanpet,600,1700,East,1000
+2018,Jogulamba Gadwal,600,1700,East,1000
+2018,SURYAPET,850,2000,East,1400
+2018,KHAMMAM,950,2100,East,1700
+2018,Mahabubabad,650,1600,East,1000
+2018,Bhadradri Kothagudem,700,1700,East,1100
+2018,Nagarkurnool,650,1500,East,1000
+2018,Adilabad,650,1500,East,1000
+2018,Kumuram Bheem Asifabad,600,1400,East,900
+2018,Mancherial,700,1600,East,1100
+2018,Nirmal,650,1300,East,950
+2018,Jagitial,600,1300,East,900
+2018,Nizamabad,550,1200,East,900
+2018,Peddapalli,550,1200,East,900
+2018,Kamareddy,550,1200,East,900
+2018, Rajanna Sircilla,500,1100,East,800
+2018,Karimnagar,550,1200,East,900
+2018,Hanumakonda,550,1300,East,1000
+2018,Medak,550,1200,East,900
+2018,Siddipet,500,1100,East,800
+2018,Jangaon ,500,1100,East,800
+2018,Mulugu,400,1000,East,700
+2018,Jayashankar Bhupalpally,350,900,East,600
+2018,Medchal-Malkajgiri,550,1300,East,900
+2018,Vikarabad,350,900,East,600
+2018,Mahabubnagar,250,800,East,350
+2018,Yadadri Bhuvanagiri,300,800,East,500
+2018,HYDERABAD,3000,6200,North,3900
+2018,WARANGAL,1600,4800,North,2500
+2018,RANGAREDDY,2100,5800,North,3200
+2018,Nalgonda,1100,3000,North,1700
+2018,Wanaparthy,1000,2000,North,1300
+2018,Narayanpet,600,1700,North,1100
+2018,Jogulamba Gadwal,600,1700,North,1100
+2018,SURYAPET,850,2000,North,1500
+2018,KHAMMAM,950,2100,North,1800
+2018,Mahabubabad,650,1600,North,1100
+2018,Bhadradri Kothagudem,700,1700,North,1200
+2018,Nagarkurnool,650,1500,North,1100
+2018,Adilabad,650,1500,North,1100
+2018,Kumuram Bheem Asifabad,600,1400,North,1000
+2018,Mancherial,700,1600,North,1200
+2018,Nirmal,650,1300,North,1000
+2018,Jagitial,600,1300,North,950
+2018,Nizamabad,550,1200,North,950
+2018,Peddapalli,550,1200,North,950
+2018,Kamareddy,550,1200,North,950
+2018, Rajanna Sircilla,500,1100,North,850
+2018,Karimnagar,550,1200,North,950
+2018,Hanumakonda,550,1300,North,1050
+2018,Medak,550,1200,North,950
+2018,Siddipet,500,1100,North,850
+2018,Jangaon ,500,1100,North,850
+2018,Mulugu,400,1000,North,750
+2018,Jayashankar Bhupalpally,350,900,North,650
+2018,Medchal-Malkajgiri,550,1300,North,1000
+2018,Vikarabad,350,900,North,650
+2018,Mahabubnagar,250,800,North,400
+2018,Yadadri Bhuvanagiri,300,800,North,550
+2018,HYDERABAD,3000,6200,South,2800
+2018,WARANGAL,1600,4800,South,1900
+2018,RANGAREDDY,2100,5800,South,2300
+2018,Nalgonda,1100,3000,South,1300
+2018,Wanaparthy,1000,2000,South,1100
+2018,Narayanpet,600,1700,South,900
+2018,Jogulamba Gadwal,600,1700,South,900
+2018,SURYAPET,850,2000,South,1300
+2018,KHAMMAM,950,2100,South,1500
+2018,Mahabubabad,650,1600,South,800
+2018,Bhadradri Kothagudem,700,1700,South,900
+2018,Nagarkurnool,650,1500,South,800
+2018,Adilabad,650,1500,South,800
+2018,Kumuram Bheem Asifabad,600,1400,South,700
+2018,Mancherial,700,1600,South,850
+2018,Nirmal,650,1300,South,700
+2018,Jagitial,600,1300,South,650
+2018,Nizamabad,550,1200,South,650
+2018,Peddapalli,550,1200,South,650
+2018,Kamareddy,550,1200,South,650
+2018, Rajanna Sircilla,500,1100,South,600
+2018,Karimnagar,550,1200,South,650
+2018,Hanumakonda,550,1300,South,650
+2018,Medak,550,1200,South,650
+2018,Siddipet,500,1100,South,550
+2018,Jangaon ,500,1100,South,550
+2018,Mulugu,400,1000,South,450
+2018,Jayashankar Bhupalpally,350,900,South,400
+2018,Medchal-Malkajgiri,550,1300,South,650
+2018,Vikarabad,350,900,South,400
+2018,Mahabubnagar,250,800,South,300
+2018,Yadadri Bhuvanagiri,300,800,South,300
+2018,HYDERABAD,3000,6200,West,4600
+2018,WARANGAL,1600,4800,West,3100
+2018,RANGAREDDY,2100,5800,West,4000
+2018,Nalgonda,1100,3000,West,1800
+2018,Wanaparthy,1000,2000,West,1400
+2018,Narayanpet,600,1700,West,1200
+2018,Jogulamba Gadwal,600,1700,West,1100
+2018,SURYAPET,850,2000,West,1600
+2018,KHAMMAM,950,2100,West,1900
+2018,Mahabubabad,650,1600,West,1150
+2018,Bhadradri Kothagudem,700,1700,West,1250
+2018,Nagarkurnool,650,1500,West,1150
+2018,Adilabad,650,1500,West,1150
+2018,Kumuram Bheem Asifabad,600,1400,West,1050
+2018,Mancherial,700,1600,West,1250
+2018,Nirmal,650,1300,West,1050
+2018,Jagitial,600,1300,West,1000
+2018,Nizamabad,550,1200,West,1050
+2018,Peddapalli,550,1200,West,1050
+2018,Kamareddy,550,1200,West,1050
+2018, Rajanna Sircilla,500,1100,West,900
+2018,Karimnagar,550,1200,West,1050
+2018,Hanumakonda,550,1300,West,1100
+2018,Medak,550,1200,West,1050
+2018,Siddipet,500,1100,West,900
+2018,Jangaon ,500,1100,West,900
+2018,Mulugu,400,1000,West,800
+2018,Jayashankar Bhupalpally,350,900,West,650
+2018,Medchal-Malkajgiri,550,1300,West,1000
+2018,Vikarabad,350,900,West,650
+2018,Mahabubnagar,250,800,West,400
+2018,Yadadri Bhuvanagiri,300,800,West,570
+2019,HYDERABAD,3000,6500,Central,6000
+2019,WARANGAL,1700,5000,Central,4200
+2019,RANGAREDDY,2200,6000,Central,5500
+2019,Nalgonda,1200,3200,Central,2100
+2019,Wanaparthy,1100,2100,Central,1600
+2019,Narayanpet,650,1800,Central,1400
+2019,Jogulamba Gadwal,650,1800,Central,1300
+2019,SURYAPET,900,2100,Central,1800
+2019,KHAMMAM,1000,2200,Central,2100
+2019,Mahabubabad,700,1700,Central,1400
+2019,Bhadradri Kothagudem,750,1800,Central,1400
+2019,Nagarkurnool,700,1600,Central,1300
+2019,Adilabad,700,1600,Central,1300
+2019,Kumuram Bheem Asifabad,650,1500,Central,1200
+2019,Mancherial,750,1700,Central,1400
+2019,Nirmal,700,1400,Central,1200
+2019,Jagitial,650,1400,Central,1100
+2019,Nizamabad,600,1300,Central,1100
+2019,Peddapalli,600,1300,Central,1100
+2019,Kamareddy,600,1300,Central,1100
+2019, Rajanna Sircilla,550,1200,Central,1000
+2019,Karimnagar,600,1300,Central,1100
+2019,Hanumakonda,600,1400,Central,1200
+2019,Medak,600,1300,Central,1100
+2019,Siddipet,550,1200,Central,1000
+2019,Jangaon ,550,1200,Central,1000
+2019,Mulugu,450,1100,Central,900
+2019,Jayashankar Bhupalpally,400,1000,Central,800
+2019,Medchal-Malkajgiri,600,1400,Central,1200
+2019,Vikarabad,400,1000,Central,800
+2019,Mahabubnagar,280,900,Central,500
+2019,Yadadri Bhuvanagiri,350,900,Central,700
+2019,HYDERABAD,3000,6500,East,3500
+2019,WARANGAL,1700,5000,East,2300
+2019,RANGAREDDY,2200,6000,East,3100
+2019,Nalgonda,1200,3200,East,1600
+2019,Wanaparthy,1100,2100,East,1300
+2019,Narayanpet,650,1800,East,1100
+2019,Jogulamba Gadwal,650,1800,East,1100
+2019,SURYAPET,900,2100,East,1500
+2019,KHAMMAM,1000,2200,East,1800
+2019,Mahabubabad,700,1700,East,1100
+2019,Bhadradri Kothagudem,750,1800,East,1200
+2019,Nagarkurnool,700,1600,East,1100
+2019,Adilabad,700,1600,East,1100
+2019,Kumuram Bheem Asifabad,650,1500,East,1000
+2019,Mancherial,750,1700,East,1200
+2019,Nirmal,700,1400,East,1050
+2019,Jagitial,650,1400,East,950
+2019,Nizamabad,600,1300,East,950
+2019,Peddapalli,600,1300,East,950
+2019,Kamareddy,600,1300,East,950
+2019, Rajanna Sircilla,550,1200,East,900
+2019,Karimnagar,600,1300,East,950
+2019,Hanumakonda,600,1400,East,1050
+2019,Medak,600,1300,East,950
+2019,Siddipet,550,1200,East,900
+2019,Jangaon ,550,1200,East,900
+2019,Mulugu,450,1100,East,800
+2019,Jayashankar Bhupalpally,400,1000,East,700
+2019,Medchal-Malkajgiri,600,1400,East,1000
+2019,Vikarabad,400,1000,East,700
+2019,Mahabubnagar,280,900,East,400
+2019,Yadadri Bhuvanagiri,350,900,East,600
+2019,HYDERABAD,3000,6500,North,4200
+2019,WARANGAL,1700,5000,North,2600
+2019,RANGAREDDY,2200,6000,North,3400
+2019,Nalgonda,1200,3200,North,1800
+2019,Wanaparthy,1100,2100,North,1400
+2019,Narayanpet,650,1800,North,1200
+2019,Jogulamba Gadwal,650,1800,North,1200
+2019,SURYAPET,900,2100,North,1600
+2019,KHAMMAM,1000,2200,North,1900
+2019,Mahabubabad,700,1700,North,1200
+2019,Bhadradri Kothagudem,750,1800,North,1300
+2019,Nagarkurnool,700,1600,North,1200
+2019,Adilabad,700,1600,North,1200
+2019,Kumuram Bheem Asifabad,650,1500,North,1100
+2019,Mancherial,750,1700,North,1300
+2019,Nirmal,700,1400,North,1100
+2019,Jagitial,650,1400,North,1000
+2019,Nizamabad,600,1300,North,1000
+2019,Peddapalli,600,1300,North,1000
+2019,Kamareddy,600,1300,North,1000
+2019, Rajanna Sircilla,550,1200,North,950
+2019,Karimnagar,600,1300,North,1000
+2019,Hanumakonda,600,1400,North,1100
+2019,Medak,600,1300,North,1000
+2019,Siddipet,550,1200,North,950
+2019,Jangaon ,550,1200,North,950
+2019,Mulugu,450,1100,North,850
+2019,Jayashankar Bhupalpally,400,1000,North,750
+2019,Medchal-Malkajgiri,600,1400,North,1100
+2019,Vikarabad,400,1000,North,750
+2019,Mahabubnagar,280,900,North,450
+2019,Yadadri Bhuvanagiri,350,900,North,650
+2019,HYDERABAD,3000,6500,South,3000
+2019,WARANGAL,1700,5000,South,2000
+2019,RANGAREDDY,2200,6000,South,2400
+2019,Nalgonda,1200,3200,South,1400
+2019,Wanaparthy,1100,2100,South,1200
+2019,Narayanpet,650,1800,South,1000
+2019,Jogulamba Gadwal,650,1800,South,1000
+2019,SURYAPET,900,2100,South,1400
+2019,KHAMMAM,1000,2200,South,1600
+2019,Mahabubabad,700,1700,South,850
+2019,Bhadradri Kothagudem,750,1800,South,950
+2019,Nagarkurnool,700,1600,South,850
+2019,Adilabad,700,1600,South,850
+2019,Kumuram Bheem Asifabad,650,1500,South,750
+2019,Mancherial,750,1700,South,900
+2019,Nirmal,700,1400,South,750
+2019,Jagitial,650,1400,South,700
+2019,Nizamabad,600,1300,South,700
+2019,Peddapalli,600,1300,South,700
+2019,Kamareddy,600,1300,South,700
+2019, Rajanna Sircilla,550,1200,South,650
+2019,Karimnagar,600,1300,South,700
+2019,Hanumakonda,600,1400,South,700
+2019,Medak,600,1300,South,700
+2019,Siddipet,550,1200,South,600
+2019,Jangaon ,550,1200,South,600
+2019,Mulugu,450,1100,South,500
+2019,Jayashankar Bhupalpally,400,1000,South,450
+2019,Medchal-Malkajgiri,600,1400,South,700
+2019,Vikarabad,400,1000,South,450
+2019,Mahabubnagar,280,900,South,350
+2019,Yadadri Bhuvanagiri,350,900,South,350
+2019,HYDERABAD,3000,6500,West,4900
+2019,WARANGAL,1700,5000,West,3300
+2019,RANGAREDDY,2200,6000,West,4200
+2019,Nalgonda,1200,3200,West,1900
+2019,Wanaparthy,1100,2100,West,1500
+2019,Narayanpet,650,1800,West,1300
+2019,Jogulamba Gadwal,650,1800,West,1200
+2019,SURYAPET,900,2100,West,1700
+2019,KHAMMAM,1000,2200,West,2000
+2019,Mahabubabad,700,1700,West,1250
+2019,Bhadradri Kothagudem,750,1800,West,1350
+2019,Nagarkurnool,700,1600,West,1250
+2019,Adilabad,700,1600,West,1250
+2019,Kumuram Bheem Asifabad,650,1500,West,1150
+2019,Mancherial,750,1700,West,1350
+2019,Nirmal,700,1400,West,1150
+2019,Jagitial,650,1400,West,1100
+2019,Nizamabad,600,1300,West,1100
+2019,Peddapalli,600,1300,West,1100
+2019,Kamareddy,600,1300,West,1100
+2019, Rajanna Sircilla,550,1200,West,1000
+2019,Karimnagar,600,1300,West,1100
+2019,Hanumakonda,600,1400,West,1200
+2019,Medak,600,1300,West,1100
+2019,Siddipet,550,1200,West,1000
+2019,Jangaon ,550,1200,West,1000
+2019,Mulugu,450,1100,West,900
+2019,Jayashankar Bhupalpally,400,1000,West,750
+2019,Medchal-Malkajgiri,600,1400,West,1100
+2019,Vikarabad,400,1000,West,750
+2019,Mahabubnagar,280,900,West,450
+2019,Yadadri Bhuvanagiri,350,900,West,670
+2020,HYDERABAD,3500,6800,Central,6200
+2020,WARANGAL,1800,5200,Central,4400
+2020,RANGAREDDY,2300,6200,Central,5700
+2020,Nalgonda,1300,3400,Central,2200
+2020,Wanaparthy,1200,2200,Central,1700
+2020,Narayanpet,700,1900,Central,1500
+2020,Jogulamba Gadwal,700,1900,Central,1400
+2020,SURYAPET,950,2200,Central,1900
+2020,KHAMMAM,1050,2300,Central,2200
+2020,Mahabubabad,750,1800,Central,1500
+2020,Bhadradri Kothagudem,800,1900,Central,1500
+2020,Nagarkurnool,750,1700,Central,1400
+2020,Adilabad,750,1700,Central,1400
+2020,Kumuram Bheem Asifabad,700,1600,Central,1300
+2020,Mancherial,800,1800,Central,1500
+2020,Nirmal,750,1500,Central,1300
+2020,Jagitial,700,1500,Central,1200
+2020,Nizamabad,650,1400,Central,1200
+2020,Peddapalli,650,1400,Central,1200
+2020,Kamareddy,650,1400,Central,1200
+2020, Rajanna Sircilla,600,1300,Central,1100
+2020,Karimnagar,650,1400,Central,1200
+2020,Hanumakonda,650,1500,Central,1300
+2020,Medak,650,1400,Central,1200
+2020,Siddipet,600,1300,Central,1100
+2020,Jangaon ,600,1300,Central,1100
+2020,Mulugu,500,1200,Central,1000
+2020,Jayashankar Bhupalpally,450,1100,Central,900
+2020,Medchal-Malkajgiri,650,1500,Central,1300
+2020,Vikarabad,450,1100,Central,900
+2020,Mahabubnagar,300,1000,Central,600
+2020,Yadadri Bhuvanagiri,400,1000,Central,800
+2020,HYDERABAD,3500,6800,East,3700
+2020,WARANGAL,1800,5200,East,2400
+2020,RANGAREDDY,2300,6200,East,3200
+2020,Nalgonda,1300,3400,East,1700
+2020,Wanaparthy,1200,2200,East,1400
+2020,Narayanpet,700,1900,East,1200
+2020,Jogulamba Gadwal,700,1900,East,1200
+2020,SURYAPET,950,2200,East,1600
+2020,KHAMMAM,1050,2300,East,1900
+2020,Mahabubabad,750,1800,East,1200
+2020,Bhadradri Kothagudem,800,1900,East,1300
+2020,Nagarkurnool,750,1700,East,1200
+2020,Adilabad,750,1700,East,1200
+2020,Kumuram Bheem Asifabad,700,1600,East,1100
+2020,Mancherial,800,1800,East,1300
+2020,Nirmal,750,1500,East,1100
+2020,Jagitial,700,1500,East,1000
+2020,Nizamabad,650,1400,East,1000
+2020,Peddapalli,650,1400,East,1000
+2020,Kamareddy,650,1400,East,1000
+2020, Rajanna Sircilla,600,1300,East,1000
+2020,Karimnagar,650,1400,East,1000
+2020,Hanumakonda,650,1500,East,1100
+2020,Medak,650,1400,East,1000
+2020,Siddipet,600,1300,East,1000
+2020,Jangaon ,600,1300,East,1000
+2020,Mulugu,500,1200,East,900
+2020,Jayashankar Bhupalpally,450,1100,East,800
+2020,Medchal-Malkajgiri,650,1500,East,1100
+2020,Vikarabad,450,1100,East,800
+2020,Mahabubnagar,300,1000,East,500
+2020,Yadadri Bhuvanagiri,400,1000,East,700
+2020,HYDERABAD,3500,6800,North,4400
+2020,WARANGAL,1800,5200,North,2700
+2020,RANGAREDDY,2300,6200,North,3600
+2020,Nalgonda,1300,3400,North,1900
+2020,Wanaparthy,1200,2200,North,1500
+2020,Narayanpet,700,1900,North,1300
+2020,Jogulamba Gadwal,700,1900,North,1300
+2020,SURYAPET,950,2200,North,1700
+2020,KHAMMAM,1050,2300,North,2000
+2020,Mahabubabad,750,1800,North,1300
+2020,Bhadradri Kothagudem,800,1900,North,1400
+2020,Nagarkurnool,750,1700,North,1300
+2020,Adilabad,750,1700,North,1300
+2020,Kumuram Bheem Asifabad,700,1600,North,1200
+2020,Mancherial,800,1800,North,1400
+2020,Nirmal,750,1500,North,1200
+2020,Jagitial,700,1500,North,1100
+2020,Nizamabad,650,1400,North,1100
+2020,Peddapalli,650,1400,North,1100
+2020,Kamareddy,650,1400,North,1100
+2020, Rajanna Sircilla,600,1300,North,1050
+2020,Karimnagar,650,1400,North,1100
+2020,Hanumakonda,650,1500,North,1200
+2020,Medak,650,1400,North,1100
+2020,Siddipet,600,1300,North,1050
+2020,Jangaon ,600,1300,North,1050
+2020,Mulugu,500,1200,North,950
+2020,Jayashankar Bhupalpally,450,1100,North,850
+2020,Medchal-Malkajgiri,650,1500,North,1200
+2020,Vikarabad,450,1100,North,850
+2020,Mahabubnagar,300,1000,North,550
+2020,Yadadri Bhuvanagiri,400,1000,North,750
+2020,HYDERABAD,3500,6800,South,3200
+2020,WARANGAL,1800,5200,South,2100
+2020,RANGAREDDY,2300,6200,South,2500
+2020,Nalgonda,1300,3400,South,1500
+2020,Wanaparthy,1200,2200,South,1300
+2020,Narayanpet,700,1900,South,1100
+2020,Jogulamba Gadwal,700,1900,South,1100
+2020,SURYAPET,950,2200,South,1500
+2020,KHAMMAM,1050,2300,South,1700
+2020,Mahabubabad,750,1800,South,900
+2020,Bhadradri Kothagudem,800,1900,South,1000
+2020,Nagarkurnool,750,1700,South,900
+2020,Adilabad,750,1700,South,900
+2020,Kumuram Bheem Asifabad,700,1600,South,800
+2020,Mancherial,800,1800,South,950
+2020,Nirmal,750,1500,South,800
+2020,Jagitial,700,1500,South,750
+2020,Nizamabad,650,1400,South,750
+2020,Peddapalli,650,1400,South,750
+2020,Kamareddy,650,1400,South,750
+2020, Rajanna Sircilla,600,1300,South,700
+2020,Karimnagar,650,1400,South,750
+2020,Hanumakonda,650,1500,South,750
+2020,Medak,650,1400,South,750
+2020,Siddipet,600,1300,South,650
+2020,Jangaon ,600,1300,South,650
+2020,Mulugu,500,1200,South,550
+2020,Jayashankar Bhupalpally,450,1100,South,500
+2020,Medchal-Malkajgiri,650,1500,South,750
+2020,Vikarabad,450,1100,South,500
+2020,Mahabubnagar,300,1000,South,400
+2020,Yadadri Bhuvanagiri,400,1000,South,400
+2020,HYDERABAD,3500,6800,West,5200
+2020,WARANGAL,1800,5200,West,3500
+2020,RANGAREDDY,2300,6200,West,4400
+2020,Nalgonda,1300,3400,West,2000
+2020,Wanaparthy,1200,2200,West,1600
+2020,Narayanpet,700,1900,West,1400
+2020,Jogulamba Gadwal,700,1900,West,1300
+2020,SURYAPET,950,2200,West,1800
+2020,KHAMMAM,1050,2300,West,2100
+2020,Mahabubabad,750,1800,West,1350
+2020,Bhadradri Kothagudem,800,1900,West,1450
+2020,Nagarkurnool,750,1700,West,1350
+2020,Adilabad,750,1700,West,1350
+2020,Kumuram Bheem Asifabad,700,1600,West,1250
+2020,Mancherial,800,1800,West,1450
+2020,Nirmal,750,1500,West,1250
+2020,Jagitial,700,1500,West,1200
+2020,Nizamabad,650,1400,West,1200
+2020,Peddapalli,650,1400,West,1200
+2020,Kamareddy,650,1400,West,1200
+2020, Rajanna Sircilla,600,1300,West,1100
+2020,Karimnagar,650,1400,West,1200
+2020,Hanumakonda,650,1500,West,1300
+2020,Medak,650,1400,West,1200
+2020,Siddipet,600,1300,West,1100
+2020,Jangaon ,600,1300,West,1100
+2020,Mulugu,500,1200,West,1000
+2020,Jayashankar Bhupalpally,450,1100,West,850
+2020,Medchal-Malkajgiri,650,1500,West,1200
+2020,Vikarabad,450,1100,West,850
+2020,Mahabubnagar,300,1000,West,550
+2020,Yadadri Bhuvanagiri,400,1000,West,780
+2021,HYDERABAD,3500,7200,Central,6500
+2021,WARANGAL,1900,5500,Central,4700
+2021,RANGAREDDY,2400,6400,Central,6000
+2021,Nalgonda,1400,3600,Central,2400
+2021,Wanaparthy,1300,2300,Central,1800
+2021,Narayanpet,750,2000,Central,1600
+2021,Jogulamba Gadwal,750,2000,Central,1500
+2021,SURYAPET,1000,2300,Central,2000
+2021,KHAMMAM,1100,2400,Central,2300
+2021,Mahabubabad,800,1900,Central,1600
+2021,Bhadradri Kothagudem,850,2000,Central,1600
+2021,Nagarkurnool,800,1800,Central,1500
+2021,Adilabad,800,1800,Central,1500
+2021,Kumuram Bheem Asifabad,750,1700,Central,1400
+2021,Mancherial,850,1900,Central,1600
+2021,Nirmal,800,1600,Central,1400
+2021,Jagitial,750,1600,Central,1300
+2021,Nizamabad,700,1500,Central,1300
+2021,Peddapalli,700,1500,Central,1300
+2021,Kamareddy,700,1500,Central,1300
+2021, Rajanna Sircilla,650,1400,Central,1200
+2021,Karimnagar,700,1500,Central,1300
+2021,Hanumakonda,700,1600,Central,1400
+2021,Medak,700,1500,Central,1300
+2021,Siddipet,650,1400,Central,1200
+2021,Jangaon ,650,1400,Central,1200
+2021,Mulugu,550,1300,Central,1100
+2021,Jayashankar Bhupalpally,500,1200,Central,1000
+2021,Medchal-Malkajgiri,700,1600,Central,1400
+2021,Vikarabad,500,1200,Central,1000
+2021,Mahabubnagar,350,1100,Central,700
+2021,Yadadri Bhuvanagiri,450,1100,Central,900
+2021,HYDERABAD,3500,7200,East,4000
+2021,WARANGAL,1900,5500,East,2600
+2021,RANGAREDDY,2400,6400,East,3400
+2021,Nalgonda,1400,3600,East,1900
+2021,Wanaparthy,1300,2300,East,1500
+2021,Narayanpet,750,2000,East,1300
+2021,Jogulamba Gadwal,750,2000,East,1300
+2021,SURYAPET,1000,2300,East,1700
+2021,KHAMMAM,1100,2400,East,2000
+2021,Mahabubabad,800,1900,East,1300
+2021,Bhadradri Kothagudem,850,2000,East,1400
+2021,Nagarkurnool,800,1800,East,1300
+2021,Adilabad,800,1800,East,1300
+2021,Kumuram Bheem Asifabad,750,1700,East,1200
+2021,Mancherial,850,1900,East,1400
+2021,Nirmal,800,1600,East,1200
+2021,Jagitial,750,1600,East,1100
+2021,Nizamabad,700,1500,East,1100
+2021,Peddapalli,700,1500,East,1100
+2021,Kamareddy,700,1500,East,1100
+2021, Rajanna Sircilla,650,1400,East,1050
+2021,Karimnagar,700,1500,East,1100
+2021,Hanumakonda,700,1600,East,1200
+2021,Medak,700,1500,East,1100
+2021,Siddipet,650,1400,East,1050
+2021,Jangaon ,650,1400,East,1050
+2021,Mulugu,550,1300,East,1000
+2021,Jayashankar Bhupalpally,500,1200,East,900
+2021,Medchal-Malkajgiri,700,1600,East,1200
+2021,Vikarabad,500,1200,East,900
+2021,Mahabubnagar,350,1100,East,600
+2021,Yadadri Bhuvanagiri,450,1100,East,800
+2021,HYDERABAD,3500,7200,North,4700
+2021,WARANGAL,1900,5500,North,2900
+2021,RANGAREDDY,2400,6400,North,3800
+2021,Nalgonda,1400,3600,North,2100
+2021,Wanaparthy,1300,2300,North,1600
+2021,Narayanpet,750,2000,North,1400
+2021,Jogulamba Gadwal,750,2000,North,1400
+2021,SURYAPET,1000,2300,North,1800
+2021,KHAMMAM,1100,2400,North,2100
+2021,Mahabubabad,800,1900,North,1400
+2021,Bhadradri Kothagudem,850,2000,North,1500
+2021,Nagarkurnool,800,1800,North,1400
+2021,Adilabad,800,1800,North,1400
+2021,Kumuram Bheem Asifabad,750,1700,North,1300
+2021,Mancherial,850,1900,North,1500
+2021,Nirmal,800,1600,North,1300
+2021,Jagitial,750,1600,North,1200
+2021,Nizamabad,700,1500,North,1200
+2021,Peddapalli,700,1500,North,1200
+2021,Kamareddy,700,1500,North,1200
+2021, Rajanna Sircilla,650,1400,North,1100
+2021,Karimnagar,700,1500,North,1200
+2021,Hanumakonda,700,1600,North,1300
+2021,Medak,700,1500,North,1200
+2021,Siddipet,650,1400,North,1100
+2021,Jangaon ,650,1400,North,1100
+2021,Mulugu,550,1300,North,1050
+2021,Jayashankar Bhupalpally,500,1200,North,950
+2021,Medchal-Malkajgiri,700,1600,North,1300
+2021,Vikarabad,500,1200,North,950
+2021,Mahabubnagar,350,1100,North,650
+2021,Yadadri Bhuvanagiri,450,1100,North,850
+2021,HYDERABAD,3500,7200,South,3400
+2021,WARANGAL,1900,5500,South,2200
+2021,RANGAREDDY,2400,6400,South,2600
+2021,Nalgonda,1400,3600,South,1600
+2021,Wanaparthy,1300,2300,South,1400
+2021,Narayanpet,750,2000,South,1200
+2021,Jogulamba Gadwal,750,2000,South,1200
+2021,SURYAPET,1000,2300,South,1600
+2021,KHAMMAM,1100,2400,South,1800
+2021,Mahabubabad,800,1900,South,1000
+2021,Bhadradri Kothagudem,850,2000,South,1100
+2021,Nagarkurnool,800,1800,South,1000
+2021,Adilabad,800,1800,South,1000
+2021,Kumuram Bheem Asifabad,750,1700,South,850
+2021,Mancherial,850,1900,South,1000
+2021,Nirmal,800,1600,South,850
+2021,Jagitial,750,1600,South,800
+2021,Nizamabad,700,1500,South,800
+2021,Peddapalli,700,1500,South,800
+2021,Kamareddy,700,1500,South,800
+2021, Rajanna Sircilla,650,1400,South,750
+2021,Karimnagar,700,1500,South,800
+2021,Hanumakonda,700,1600,South,800
+2021,Medak,700,1500,South,800
+2021,Siddipet,650,1400,South,700
+2021,Jangaon ,650,1400,South,700
+2021,Mulugu,550,1300,South,600
+2021,Jayashankar Bhupalpally,500,1200,South,550
+2021,Medchal-Malkajgiri,700,1600,South,800
+2021,Vikarabad,500,1200,South,550
+2021,Mahabubnagar,350,1100,South,450
+2021,Yadadri Bhuvanagiri,450,1100,South,450
+2021,HYDERABAD,3500,7200,West,5500
+2021,WARANGAL,1900,5500,West,3700
+2021,RANGAREDDY,2400,6400,West,4600
+2021,Nalgonda,1400,3600,West,2200
+2021,Wanaparthy,1300,2300,West,1700
+2021,Narayanpet,750,2000,West,1500
+2021,Jogulamba Gadwal,750,2000,West,1400
+2021,SURYAPET,1000,2300,West,1900
+2021,KHAMMAM,1100,2400,West,2200
+2021,Mahabubabad,800,1900,West,1450
+2021,Bhadradri Kothagudem,850,2000,West,1550
+2021,Nagarkurnool,800,1800,West,1450
+2021,Adilabad,800,1800,West,1450
+2021,Kumuram Bheem Asifabad,750,1700,West,1350
+2021,Mancherial,850,1900,West,1550
+2021,Nirmal,800,1600,West,1350
+2021,Jagitial,750,1600,West,1300
+2021,Nizamabad,700,1500,West,1300
+2021,Peddapalli,700,1500,West,1300
+2021,Kamareddy,700,1500,West,1300
+2021, Rajanna Sircilla,650,1400,West,1200
+2021,Karimnagar,700,1500,West,1300
+2021,Hanumakonda,700,1600,West,1400
+2021,Medak,700,1500,West,1300
+2021,Siddipet,650,1400,West,1200
+2021,Jangaon ,650,1400,West,1200
+2021,Mulugu,550,1300,West,1100
+2021,Jayashankar Bhupalpally,500,1200,West,950
+2021,Medchal-Malkajgiri,700,1600,West,1300
+2021,Vikarabad,500,1200,West,950
+2021,Mahabubnagar,350,1100,West,650
+2021,Yadadri Bhuvanagiri,450,1100,West,870
+2022,HYDERABAD,4000,7600,Central,7000
+2022,WARANGAL,2000,5800,Central,5000
+2022,RANGAREDDY,2500,6600,Central,6500
+2022,Nalgonda,1500,3800,Central,2600
+2022,Wanaparthy,1400,2400,Central,1900
+2022,Narayanpet,800,2100,Central,1700
+2022,Jogulamba Gadwal,800,2100,Central,1600
+2022,SURYAPET,1050,2400,Central,2100
+2022,KHAMMAM,1150,2500,Central,2400
+2022,Mahabubabad,850,2000,Central,1700
+2022,Bhadradri Kothagudem,900,2100,Central,1700
+2022,Nagarkurnool,850,1900,Central,1600
+2022,Adilabad,850,1900,Central,1600
+2022,Kumuram Bheem Asifabad,800,1800,Central,1500
+2022,Mancherial,900,2000,Central,1700
+2022,Nirmal,850,1700,Central,1500
+2022,Jagitial,800,1700,Central,1400
+2022,Nizamabad,750,1600,Central,1400
+2022,Peddapalli,750,1600,Central,1400
+2022,Kamareddy,750,1600,Central,1400
+2022, Rajanna Sircilla,700,1500,Central,1300
+2022,Karimnagar,750,1600,Central,1400
+2022,Hanumakonda,750,1700,Central,1500
+2022,Medak,750,1600,Central,1400
+2022,Siddipet,700,1500,Central,1300
+2022,Jangaon ,700,1500,Central,1300
+2022,Mulugu,600,1400,Central,1200
+2022,Jayashankar Bhupalpally,550,1300,Central,1100
+2022,Medchal-Malkajgiri,750,1700,Central,1500
+2022,Vikarabad,550,1300,Central,1100
+2022,Mahabubnagar,400,1200,Central,800
+2022,Yadadri Bhuvanagiri,500,1200,Central,1000
+2022,HYDERABAD,4000,7600,East,4300
+2022,WARANGAL,2000,5800,East,2800
+2022,RANGAREDDY,2500,6600,East,3600
+2022,Nalgonda,1500,3800,East,2100
+2022,Wanaparthy,1400,2400,East,1600
+2022,Narayanpet,800,2100,East,1400
+2022,Jogulamba Gadwal,800,2100,East,1400
+2022,SURYAPET,1050,2400,East,1800
+2022,KHAMMAM,1150,2500,East,2100
+2022,Mahabubabad,850,2000,East,1400
+2022,Bhadradri Kothagudem,900,2100,East,1500
+2022,Nagarkurnool,850,1900,East,1400
+2022,Adilabad,850,1900,East,1400
+2022,Kumuram Bheem Asifabad,800,1800,East,1300
+2022,Mancherial,900,2000,East,1500
+2022,Nirmal,850,1700,East,1300
+2022,Jagitial,800,1700,East,1200
+2022,Nizamabad,750,1600,East,1200
+2022,Peddapalli,750,1600,East,1200
+2022,Kamareddy,750,1600,East,1200
+2022, Rajanna Sircilla,700,1500,East,1150
+2022,Karimnagar,750,1600,East,1200
+2022,Hanumakonda,750,1700,East,1300
+2022,Medak,750,1600,East,1200
+2022,Siddipet,700,1500,East,1100
+2022,Jangaon ,700,1500,East,1100
+2022,Mulugu,600,1400,East,1100
+2022,Jayashankar Bhupalpally,550,1300,East,1000
+2022,Medchal-Malkajgiri,750,1700,East,1300
+2022,Vikarabad,550,1300,East,1000
+2022,Mahabubnagar,400,1200,East,700
+2022,Yadadri Bhuvanagiri,500,1200,East,900
+2022,HYDERABAD,4000,7600,North,5000
+2022,WARANGAL,2000,5800,North,3100
+2022,RANGAREDDY,2500,6600,North,4000
+2022,Nalgonda,1500,3800,North,2300
+2022,Wanaparthy,1400,2400,North,1700
+2022,Narayanpet,800,2100,North,1500
+2022,Jogulamba Gadwal,800,2100,North,1500
+2022,SURYAPET,1050,2400,North,1900
+2022,KHAMMAM,1150,2500,North,2200
+2022,Mahabubabad,850,2000,North,1500
+2022,Bhadradri Kothagudem,900,2100,North,1600
+2022,Nagarkurnool,850,1900,North,1500
+2022,Adilabad,850,1900,North,1500
+2022,Kumuram Bheem Asifabad,800,1800,North,1400
+2022,Mancherial,900,2000,North,1600
+2022,Nirmal,850,1700,North,1400
+2022,Jagitial,800,1700,North,1300
+2022,Nizamabad,750,1600,North,1300
+2022,Peddapalli,750,1600,North,1300
+2022,Kamareddy,750,1600,North,1300
+2022, Rajanna Sircilla,700,1500,North,1200
+2022,Karimnagar,750,1600,North,1300
+2022,Hanumakonda,750,1700,North,1400
+2022,Medak,750,1600,North,1300
+2022,Siddipet,700,1500,North,1200
+2022,Jangaon ,700,1500,North,1200
+2022,Mulugu,600,1400,North,1150
+2022,Jayashankar Bhupalpally,550,1300,North,1050
+2022,Medchal-Malkajgiri,750,1700,North,1400
+2022,Vikarabad,550,1300,North,1050
+2022,Mahabubnagar,400,1200,North,750
+2022,Yadadri Bhuvanagiri,500,1200,North,950
+2022,HYDERABAD,4000,7600,South,3700
+2022,WARANGAL,2000,5800,South,2300
+2022,RANGAREDDY,2500,6600,South,2800
+2022,Nalgonda,1500,3800,South,1800
+2022,Wanaparthy,1400,2400,South,1500
+2022,Narayanpet,800,2100,South,1300
+2022,Jogulamba Gadwal,800,2100,South,1300
+2022,SURYAPET,1050,2400,South,1700
+2022,KHAMMAM,1150,2500,South,1900
+2022,Mahabubabad,850,2000,South,1100
+2022,Bhadradri Kothagudem,900,2100,South,1200
+2022,Nagarkurnool,850,1900,South,1100
+2022,Adilabad,850,1900,South,1100
+2022,Kumuram Bheem Asifabad,800,1800,South,900
+2022,Mancherial,900,2000,South,1100
+2022,Nirmal,850,1700,South,900
+2022,Jagitial,800,1700,South,850
+2022,Nizamabad,750,1600,South,850
+2022,Peddapalli,750,1600,South,850
+2022,Kamareddy,750,1600,South,850
+2022, Rajanna Sircilla,700,1500,South,800
+2022,Karimnagar,750,1600,South,850
+2022,Hanumakonda,750,1700,South,850
+2022,Medak,750,1600,South,850
+2022,Siddipet,700,1500,South,750
+2022,Jangaon ,700,1500,South,750
+2022,Mulugu,600,1400,South,650
+2022,Jayashankar Bhupalpally,550,1300,South,600
+2022,Medchal-Malkajgiri,750,1700,South,850
+2022,Vikarabad,550,1300,South,600
+2022,Mahabubnagar,400,1200,South,500
+2022,Yadadri Bhuvanagiri,500,1200,South,500
+2022,HYDERABAD,4000,7600,West,5800
+2022,WARANGAL,2000,5800,West,3900
+2022,RANGAREDDY,2500,6600,West,4800
+2022,Nalgonda,1500,3800,West,2400
+2022,Wanaparthy,1400,2400,West,1800
+2022,Narayanpet,800,2100,West,1600
+2022,Jogulamba Gadwal,800,2100,West,1500
+2022,SURYAPET,1050,2400,West,2000
+2022,KHAMMAM,1150,2500,West,2300
+2022,Mahabubabad,850,2000,West,1550
+2022,Bhadradri Kothagudem,900,2100,West,1650
+2022,Nagarkurnool,850,1900,West,1550
+2022,Adilabad,850,1900,West,1550
+2022,Kumuram Bheem Asifabad,800,1800,West,1450
+2022,Mancherial,900,2000,West,1650
+2022,Nirmal,850,1700,West,1450
+2022,Jagitial,800,1700,West,1400
+2022,Nizamabad,750,1600,West,1400
+2022,Peddapalli,750,1600,West,1400
+2022,Kamareddy,750,1600,West,1400
+2022, Rajanna Sircilla,700,1500,West,1300
+2022,Karimnagar,750,1600,West,1400
+2022,Hanumakonda,750,1700,West,1500
+2022,Medak,750,1600,West,1400
+2022,Siddipet,700,1500,West,1300
+2022,Jangaon ,700,1500,West,1300
+2022,Mulugu,600,1400,West,1200
+2022,Jayashankar Bhupalpally,550,1300,West,1050
+2022,Medchal-Malkajgiri,750,1700,West,1400
+2022,Vikarabad,550,1300,West,1050
+2022,Mahabubnagar,400,1200,West,750
+2022,Yadadri Bhuvanagiri,500,1200,West,980
+2023,HYDERABAD,4000,9000,Central,8500
+2023,WARANGAL,2100,6000,Central,6000
+2023,RANGAREDDY,2600,6800,Central,7000
+2023,Nalgonda,1600,4000,Central,2800
+2023,Wanaparthy,1500,2500,Central,2000
+2023,Narayanpet,850,2200,Central,1800
+2023,Jogulamba Gadwal,850,2200,Central,1700
+2023,SURYAPET,1100,2500,Central,2200
+2023,KHAMMAM,1200,2600,Central,2500
+2023,Mahabubabad,900,2100,Central,1800
+2023,Bhadradri Kothagudem,950,2200,Central,1800
+2023,Nagarkurnool,900,2000,Central,1700
+2023,Adilabad,900,2000,Central,1700
+2023,Kumuram Bheem Asifabad,850,1900,Central,1600
+2023,Mancherial,950,2100,Central,1800
+2023,Nirmal,900,1800,Central,1600
+2023,Jagitial,850,1800,Central,1500
+2023,Nizamabad,800,1700,Central,1500
+2023,Peddapalli,800,1700,Central,1500
+2023,Kamareddy,800,1700,Central,1500
+2023, Rajanna Sircilla,750,1600,Central,1400
+2023,Karimnagar,800,1700,Central,1500
+2023,Hanumakonda,800,1800,Central,1600
+2023,Medak,800,1700,Central,1500
+2023,Siddipet,750,1600,Central,1400
+2023,Jangaon ,750,1600,Central,1400
+2023,Mulugu,650,1500,Central,1300
+2023,Jayashankar Bhupalpally,600,1400,Central,1200
+2023,Medchal-Malkajgiri,800,1800,Central,1600
+2023,Vikarabad,600,1400,Central,1200
+2023,Mahabubnagar,450,1300,Central,900
+2023,Yadadri Bhuvanagiri,550,1300,Central,1100
+2023,HYDERABAD,4000,9000,East,4700
+2023,WARANGAL,2100,6000,East,3000
+2023,RANGAREDDY,2600,6800,East,3800
+2023,Nalgonda,1600,4000,East,2300
+2023,Wanaparthy,1500,2500,East,1700
+2023,Narayanpet,850,2200,East,1500
+2023,Jogulamba Gadwal,850,2200,East,1500
+2023,SURYAPET,1100,2500,East,1900
+2023,KHAMMAM,1200,2600,East,2200
+2023,Mahabubabad,900,2100,East,1500
+2023,Bhadradri Kothagudem,950,2200,East,1600
+2023,Nagarkurnool,900,2000,East,1500
+2023,Adilabad,900,2000,East,1500
+2023,Kumuram Bheem Asifabad,850,1900,East,1400
+2023,Mancherial,950,2100,East,1600
+2023,Nirmal,900,1800,East,1400
+2023,Jagitial,850,1800,East,1300
+2023,Nizamabad,800,1700,East,1300
+2023,Peddapalli,800,1700,East,1300
+2023,Kamareddy,800,1700,East,1300
+2023, Rajanna Sircilla,750,1600,East,1200
+2023,Karimnagar,800,1700,East,1300
+2023,Hanumakonda,800,1800,East,1400
+2023,Medak,800,1700,East,1300
+2023,Siddipet,750,1600,East,1200
+2023,Jangaon ,750,1600,East,1200
+2023,Mulugu,650,1500,East,1200
+2023,Jayashankar Bhupalpally,600,1400,East,1050
+2023,Medchal-Malkajgiri,800,1800,East,1400
+2023,Vikarabad,600,1400,East,1050
+2023,Mahabubnagar,450,1300,East,800
+2023,Yadadri Bhuvanagiri,550,1300,East,1000
+2023,HYDERABAD,4000,9000,North,5500
+2023,WARANGAL,2100,6000,North,3400
+2023,RANGAREDDY,2600,6800,North,4200
+2023,Nalgonda,1600,4000,North,2500
+2023,Wanaparthy,1500,2500,North,1800
+2023,Narayanpet,850,2200,North,1600
+2023,Jogulamba Gadwal,850,2200,North,1600
+2023,SURYAPET,1100,2500,North,2000
+2023,KHAMMAM,1200,2600,North,2300
+2023,Mahabubabad,900,2100,North,1600
+2023,Bhadradri Kothagudem,950,2200,North,1700
+2023,Nagarkurnool,900,2000,North,1600
+2023,Adilabad,900,2000,North,1600
+2023,Kumuram Bheem Asifabad,850,1900,North,1500
+2023,Mancherial,950,2100,North,1700
+2023,Nirmal,900,1800,North,1500
+2023,Jagitial,850,1800,North,1400
+2023,Nizamabad,800,1700,North,1400
+2023,Peddapalli,800,1700,North,1400
+2023,Kamareddy,800,1700,North,1400
+2023, Rajanna Sircilla,750,1600,North,1300
+2023,Karimnagar,800,1700,North,1400
+2023,Hanumakonda,800,1800,North,1500
+2023,Medak,800,1700,North,1400
+2023,Siddipet,750,1600,North,1300
+2023,Jangaon ,750,1600,North,1300
+2023,Mulugu,650,1500,North,1250
+2023,Jayashankar Bhupalpally,600,1400,North,1100
+2023,Medchal-Malkajgiri,800,1800,North,1500
+2023,Vikarabad,600,1400,North,1100
+2023,Mahabubnagar,450,1300,North,850
+2023,Yadadri Bhuvanagiri,550,1300,North,1050
+2023,HYDERABAD,4000,9000,South,4000
+2023,WARANGAL,2100,6000,South,2500
+2023,RANGAREDDY,2600,6800,South,3000
+2023,Nalgonda,1600,4000,South,2000
+2023,Wanaparthy,1500,2500,South,1600
+2023,Narayanpet,850,2200,South,1400
+2023,Jogulamba Gadwal,850,2200,South,1400
+2023,SURYAPET,1100,2500,South,1800
+2023,KHAMMAM,1200,2600,South,2000
+2023,Mahabubabad,900,2100,South,1200
+2023,Bhadradri Kothagudem,950,2200,South,1300
+2023,Nagarkurnool,900,2000,South,1200
+2023,Adilabad,900,2000,South,1200
+2023,Kumuram Bheem Asifabad,850,1900,South,950
+2023,Mancherial,950,2100,South,1200
+2023,Nirmal,900,1800,South,950
+2023,Jagitial,850,1800,South,900
+2023,Nizamabad,800,1700,South,900
+2023,Peddapalli,800,1700,South,900
+2023,Kamareddy,800,1700,South,900
+2023, Rajanna Sircilla,750,1600,South,850
+2023,Karimnagar,800,1700,South,900
+2023,Hanumakonda,800,1800,South,900
+2023,Medak,800,1700,South,900
+2023,Siddipet,750,1600,South,800
+2023,Jangaon ,750,1600,South,800
+2023,Mulugu,650,1500,South,700
+2023,Jayashankar Bhupalpally,600,1400,South,650
+2023,Medchal-Malkajgiri,800,1800,South,900
+2023,Vikarabad,600,1400,South,650
+2023,Mahabubnagar,450,1300,South,550
+2023,Yadadri Bhuvanagiri,550,1300,South,550
+2023,HYDERABAD,4000,9000,West,6500
+2023,WARANGAL,2100,6000,West,4200
+2023,RANGAREDDY,2600,6800,West,5000
+2023,Nalgonda,1600,4000,West,2600
+2023,Wanaparthy,1500,2500,West,1900
+2023,Narayanpet,850,2200,West,1700
+2023,Jogulamba Gadwal,850,2200,West,1600
+2023,SURYAPET,1100,2500,West,2100
+2023,KHAMMAM,1200,2600,West,2400
+2023,Mahabubabad,900,2100,West,1650
+2023,Bhadradri Kothagudem,950,2200,West,1750
+2023,Nagarkurnool,900,2000,West,1650
+2023,Adilabad,900,2000,West,1650
+2023,Kumuram Bheem Asifabad,850,1900,West,1550
+2023,Mancherial,950,2100,West,1750
+2023,Nirmal,900,1800,West,1550
+2023,Jagitial,850,1800,West,1500
+2023,Nizamabad,800,1700,West,1500
+2023,Peddapalli,800,1700,West,1500
+2023,Kamareddy,800,1700,West,1500
+2023, Rajanna Sircilla,750,1600,West,1400
+2023,Karimnagar,800,1700,West,1500
+2023,Hanumakonda,800,1800,West,1600
+2023,Medak,800,1700,West,1500
+2023,Siddipet,750,1600,West,1400
+2023,Jangaon ,750,1600,West,1400
+2023,Mulugu,650,1500,West,1300
+2023,Jayashankar Bhupalpally,600,1400,West,1100
+2023,Medchal-Malkajgiri,800,1800,West,1500
+2023,Vikarabad,600,1400,West,1100
+2023,Mahabubnagar,450,1300,West,850
+2023,Yadadri Bhuvanagiri,550,1300,West,1080

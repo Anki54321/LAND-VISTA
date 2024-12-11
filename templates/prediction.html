@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Results</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="text-center">Prediction Results</h2>
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Predicted Prices</h4>
+                <p><strong>Average Price:</strong> {{ predicted_avg }}</p>
+                <p><strong>Minimum Price:</strong> {{ predicted_min}}</p>
+                <p><strong>Maximum Price:</strong> {{ predicted_max }}</p>
+            </div>
+        </div>
+        <div class="mt-4">
+            <h4>Price Trend Graph</h4>
+            <div>
+                <h3>scale factor:</h3>
+                <p>1 unit = 10 rupees</p>
+                <p><b>Graph:</b> rupees/square feet</p>
+            </div>
+            <img src="{{ plot_url }}" alt="Price Trends Graph" class="img-fluid">
+        </div>
+        <div class="mt-3 text-center">
+            <a href="/" class="btn btn-primary">Go Back</a>
+        </div>
+    </div>
+</body>
+</html>
